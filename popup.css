@@ -1,0 +1,12 @@
+#header{
+	margin: 30px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 200%;
+    height: 30px;
+    width: 350px;
+    text-align: center;
+}
+
+td{
+	padding: 10px;
+}
